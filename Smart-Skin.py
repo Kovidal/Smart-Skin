@@ -1,6 +1,5 @@
 # smart_skin.py
-# Professional Skin Disease Detection with Pimple Location Analysis
-# Production Ready - No Emojis
+
 
 import streamlit as st
 import tensorflow as tf
